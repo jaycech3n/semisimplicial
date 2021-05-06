@@ -2,7 +2,7 @@
 
 {- Working through the standard attempt to constructing semisimplicial types -}
 
-module SST where
+module SST-ptwise where
 
 open import lib.Basics
 open import lib.types.Unit
